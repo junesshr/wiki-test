@@ -1,4 +1,4 @@
-# Installing custom versions of Minecraft
+# Installing custom versions of Minecrawft
 
 If you want an old mod or modpack to run (Minecraft 1.2.4 and older), this is for you. Warning, not for newcomers!
 
